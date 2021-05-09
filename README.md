@@ -1,2 +1,2 @@
 # ENG-498-Final-Project
-This Project uses data found on Kaggle. All project data is in the Public Domain.
+Please see ENG 498 Final Project Proposal for details
