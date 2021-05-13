@@ -1,0 +1,9 @@
+Afinn documentation:
+https://pypi.org/project/afinn/ 
+
+Afinn is a tool that allows users to be able to assign sentiment scores to words. It can do this for a number of languages. the more negative score, the more negative the sentiment of those words are. The more positive the score, the more positive the words are.
+
+yfinance Documentation:
+https://pypi.org/project/yfinance/
+
+yfinance is the library that contains stock data for
